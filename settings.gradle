@@ -1,0 +1,4 @@
+rootProject.name = 'mini_spring'
+include 'framework'
+include 'test'
+
