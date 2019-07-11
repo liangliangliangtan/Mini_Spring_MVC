@@ -29,7 +29,7 @@ you can run:
 
 
 
-See MyBlog [here] (https://liangliangliangtan.github.io/mini-spring-mvc/) for more information and The demo result.
+See MyBlog [here](https://liangliangliangtan.github.io/mini-spring-mvc/) for more information and The demo result.
 
  
 
